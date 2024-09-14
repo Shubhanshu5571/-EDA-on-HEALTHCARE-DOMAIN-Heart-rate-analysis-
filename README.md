@@ -1,21 +1,21 @@
-In which I am tackle a dataset of healthcare domain.
-then I am perform some EDA techniques to analyse the various attribute of this dataset.
-the EDA and its Technique i am using these are:
+-In which I am tackle a dataset of healthcare domain.
+-Then I am perform some EDA techniques to analyse the various attribute of this dataset.
+-The EDA and its Technique i am using these are:
 --Exploratory data analysis
-      - [Check shape of the dataset](#6.1)
-	    - [Preview the dataset](#6.2)
-	    - [Summary of dataset](#6.3)
-      - [Dataset description](#6.4)
-      - [Check data types of columns](#6.5)
-      - [Important points about dataset](#6.6)
-      - [Statistical properties of dataset](#6.7)
-      - [View column names](#6.8)
+      - [Check shape of the dataset]
+      - [Preview the dataset]
+      - [Summary of dataset]
+      - [Dataset description]
+      - [Check data types of columns]
+      - [Important points about dataset]
+      - [Statistical properties of dataset]
+      - [View column name]
 
 ------ EDA Techniques ------
   
 1.   Univariate analysis
-      - [Analysis of `target` feature variable](#7.1)
-      - [Findings of univariate analysis](#7.2)
+      - [Analysis of `target` feature variable]
+      - [Findings of univariate analysis]
 2.	Bivariate analysis
       - [Estimate correlation coefficients]
       - [Analysis of `target` and `cp` variable]
@@ -32,4 +32,4 @@ the EDA and its Technique i am using these are:
       - [Boxplot function]
 
 ---- Conclusion ----
-  	  -So by using all these i am analyse the datset and analyse  a some meaningful information which is very helpful in the field of medical science.
+-So by using all these i am analyse the datset and analyse  a some meaningful information which is very helpful in the field of medical science.
